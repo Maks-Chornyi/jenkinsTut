@@ -4,5 +4,6 @@ public class HelloWorld {
 			System.out.println("HelloWorld " + i);
 			Thread.sleep(1000);
 		}
+		System.out.println("Everything was done");
 	}
 }
